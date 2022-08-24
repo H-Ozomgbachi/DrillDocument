@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrillDocument.API", "DrillDocument.API\DrillDocument.API.csproj", "{BC7DA762-6D3F-407E-ADB8-4BA3BED7C2F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7DA762-6D3F-407E-ADB8-4BA3BED7C2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7DA762-6D3F-407E-ADB8-4BA3BED7C2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7DA762-6D3F-407E-ADB8-4BA3BED7C2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7DA762-6D3F-407E-ADB8-4BA3BED7C2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54480AEF-1A97-4681-A258-30DACDD1ADF0}
+	EndGlobalSection
+EndGlobal
